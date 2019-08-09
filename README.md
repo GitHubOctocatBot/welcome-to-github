@@ -4,7 +4,7 @@ Welcome to GitHub—where millions of developers work together on software. Read
 
 ## Repositories
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or file system for your project. Your project's repository contains its files—code, documentation, images, and more—and stores each file's revision history.
+Right now, we’re in your first GitHub **repository**. A repository is like a folder or file system for your project. Your project's repository contains its files such as code, documentation, images, and more. It also stores the history of changes to each file.
 
 This repository contains two important files: The HTML code and README file for your first website on GitHub. It also contains a folder with the images used in this README.
 
