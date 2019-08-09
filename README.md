@@ -55,7 +55,7 @@ When you’re done, scroll down to the `Commit changes` section of the edit page
 :tada: You just made your first commit! :tada:
 
 ## Rename your repository 
- This repository is called “hello-world,” but most repositories are named after the projects they contain. To update your repository’s name, click the `Settings` tab on this page. This will take you to your repository’s setting page.
+ This repository is called “hello-world,” but most repositories are named after the projects they contain. To update your repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page.
 
 [image placeholder]
 
