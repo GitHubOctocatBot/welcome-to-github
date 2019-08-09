@@ -25,7 +25,7 @@ Practice: When you are done reading this README, delete these directions to crea
 
 ## Publish your site
 
-Your first GitHub website is automatically published at: https://your-username.github.io/. The HTML file—called `index.html`—sis rendered as the home page and you'll be making changes to this file in the next step.
+Your first GitHub website is automatically published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
 
 Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world.
 
