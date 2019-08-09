@@ -4,17 +4,18 @@ Welcome to GitHub—where millions of developers work together on software. Read
 
 ## Repositories
 
-You’re currently reading the contents of your first GitHub **repository**. A repository is like a folder or file system for your project. Your project's repository contains its files—code, documentation, images, and more—and stores each file's revision history.
+Right now, we’re in your first GitHub **repository**. A repository is like a folder or file system for your project. Your project's repository contains its files—code, documentation, images, and more—and stores each file's revision history.
 
 This repository contains two important files: The HTML code and README file for your first website on GitHub. It also contains a folder with the images used in this README.
 
 ## Describe your Project
 
-You are currently reading your project's README file. _README.md_ files are like cover pages or pitches for your project. It is written in plain text and usually includes: a paragraph describing the project, directions on how to use it, who authored it, and more. 
+You are currently reading your project's README file. _README.md_ files are like cover pages or elevator pitches for your project. It is written in plain text  and usually includes: a paragraph describing the project, directions on how to use it, who authored it, and more.
 
-Practice: When you are done reading this README, delete these directions to create a custom README describing the website you create in the next step.
+Practice: When you are done reading this README, delete these directions to create a custom README  describing the website you create in the next step. Learn how to style this [README using markdown language here](https://guides.github.com/features/mastering-markdown/).
 
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+
 
 ## Your first website
 
@@ -24,7 +25,7 @@ Practice: When you are done reading this README, delete these directions to crea
 
 ## Publish your site
 
-Your first GitHub website is automatically published at: https://your-username.github.io/. The HTML file called `index.html` is rendered as the home page and you'll be making changes to this file in the next step.
+Your first GitHub website is automatically published at: https://your-username.github.io/. The HTML file—called `index.html`—sis rendered as the home page and you'll be making changes to this file in the next step.
 
 Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world.
 
@@ -59,6 +60,7 @@ When you’re done, scroll down to the `Commit changes` section of the edit page
 :tada: You just made your first commit! :tada:
 
 ## Rename your repository 
+
  This repository is called “hello-world,” but most repositories are named after the projects they contain. To update your repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page.
 
 [image placeholder]
@@ -68,7 +70,9 @@ Under the **Repository Name** heading, type the new name of your repository. The
 [image placeholder]
 
 ## Getting your local machine set up
+
 TODO: Content from the desktop team.
 
 ## Everything you need to know about GitHub
+
 Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
