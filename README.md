@@ -8,22 +8,25 @@ You’re currently reading the contents of your first GitHub **repository**. A r
 
 This repository contains two important files: The HTML code and README file for your first website on GitHub. It also contains a folder with the images used in this README.
 
-_README.md_ files are like cover pages for your project. It is written in plain text and usually includes: a paragraph describing the project, directions on how to use it, who authored it, and more. 
+## Describe your Project
+
+You are currently reading your project's README file. _README.md_ files are like cover pages or pitches for your project. It is written in plain text and usually includes: a paragraph describing the project, directions on how to use it, who authored it, and more. 
+
+Practice: When you are done reading this README, delete these directions to create a custom README describing the website you create in the next step.
 
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
 
 ## Your first website
 
-**GitHub Pages** is a free and easy way to create a website using the code contained in your GitHub repositories. You can use GitHub pages to build a portfolio, show someone the site you coded, or share documentation for your project. GitHub pages is automatically enabled in this repository, but when you create new repositories in the future, you'll need to enable GitHub Pages to launch your site automatically.
+**GitHub Pages** is a free and easy way to create a website using the code contained in your GitHub repositories. You can use GitHub Pages to build a portfolio, create a personal website, show someone the site you coded, or share documentation for your project. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, you'll need to enable GitHub Pages to launch your site automatically.
 
 [Learn more about Github Pages](https://pages.github.com/)
 
 ## Publish your site
 
-Your first GitHub website is automatically published at: https://<your-username>.github.io/. The HTML file called `index.html` is rendered as the home page and you'll be making changes to this file in the next step.
+Your first GitHub website is automatically published at: https://your-username.github.io/. The HTML file called `index.html` is rendered as the home page and you'll be making changes to this file in the next step.
 
 Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world.
-
 
 ## Making your first edit
 
@@ -33,9 +36,10 @@ With each commit, you have the opportunity to create a **commit message**, a sho
 
 ## Practice: Customize your first Github website by writing HTML code
 
-Want to create a personal website? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
+Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
 
 Let’s start with this template:
+
 ```
 <H1>Hello World! I’m [username]. This is my website!</H1>
 ```
