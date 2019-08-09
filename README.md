@@ -1,6 +1,6 @@
 # Welcome to GitHub
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn a few fundamentals, and then try them out by publishing your first GitHub website!
+Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn a few fundamentals, and then try them out by publishing your first GitHub Pages website!
 
 ## Repositories
 
