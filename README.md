@@ -20,7 +20,7 @@ _README.md_ files are like cover pages for your project. It is written in plain 
 
 ## Publish your site
 
-Your first GitHub website is automatically published at: https://hello-world.github.io/. The HTML file called `index.html` is rendered as the home page and you'll be making changes to this file in the next step.
+Your first GitHub website is automatically published at: https://<your-username>.github.io/. The HTML file called `index.html` is rendered as the home page and you'll be making changes to this file in the next step.
 
 Congratulations! You just launched your first GitHub website. It's now live to share with the entire world.
 
