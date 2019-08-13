@@ -19,7 +19,7 @@ You are currently reading your project's README file. _README.md_ files are like
 
 **GitHub Pages** is a free and easy way to create a website using the code contained in your GitHub repositories. You can use GitHub Pages to build a portfolio, create a personal website, show someone the site you coded, or share documentation for your project. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, you'll need to enable GitHub Pages to launch your site automatically.
 
-[Learn more about Github Pages](https://pages.github.com/)
+[Learn more about GitHub Pages](https://pages.github.com/)
 
 ## Publish your site
 
@@ -33,7 +33,7 @@ When you make any change to any file in your project, you’re making a **commit
 
 With each commit, you have the opportunity to create a **commit message**, a short, meaningful comment about the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
 
-## Practice: Customize your first Github website by writing HTML code
+## Practice: Customize your first GitHub website by writing HTML code
 
 Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
 
