@@ -8,7 +8,7 @@ Right now, we’re in your first GitHub **repository**. A repository is like a f
 
 This repository contains two important files: The HTML code for your first website on GitHub and the README file. It also contains a folder with the images used in this README.
 
-## Describe your Project
+## Describe your project
 
 You are currently viewing your project's README file. _README_ files are like cover pages or elevator pitches for your project. They are written in plain text or Markdown, and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
 
