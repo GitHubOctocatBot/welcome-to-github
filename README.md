@@ -12,8 +12,6 @@ This repository contains two important files: The HTML code for your first websi
 
 You are currently reading your project's README file. _README.md_ files are like cover pages or elevator pitches for your project. It is written in plain text  and usually includes: a paragraph describing the project, directions on how to use it, who authored it, and more.
 
-Practice: When you are done reading this README, delete these directions to create a custom README  describing the website you create in the next step. Learn how to style this [README using markdown language here](https://guides.github.com/features/mastering-markdown/).
-
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
 
 
