@@ -1,6 +1,6 @@
 # Welcome to GitHub
 
-Welcome to GitHub—where millions of developers work together to build software. Ready to get started? Let’s learn how this all works by publishing your first GitHub Pages Website!
+Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages Website!
 
 ## Repositories
 
@@ -34,7 +34,7 @@ Under the **Repository Name** heading, type: `username.github.io`, where usernam
 
 [image placeholder]
 
-Once you click "rename," your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
+Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
 
 Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
 
@@ -51,20 +51,28 @@ Want to edit the site you just published? Let’s practice commits by introducin
 Let’s start with this template:
 
 ```
-<p> Hello World! I’m [username]. This is my website!</p>
+<p>Hello World! I’m [username]. This is my website!</p>
 ```
 
 To add your introduction, copy our template and click the edit icon at the top right hand corner of the `index.html` file.
 
 [image placeholder]
 
-Then, paste the template and fill in the blanks.
+Delete this placeholder line:
+
+```
+<h1>Welcome to your first GitHub Pages website!</h1>
+```
+
+Then, paste the template on line 15 and fill in the blanks.
 
 [image placeholder]
 
 When you’re done, scroll down to the `Commit changes` section of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
 
 [image placeholder]
+
+Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
 
 :tada: You just made your first commit! :tada:
 
