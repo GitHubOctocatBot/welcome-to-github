@@ -76,6 +76,38 @@ Once you click `Commit changes`, your changes will automatically be published on
 
 :tada: You just made your first commit! :tada:
 
+## Work with GitHub on your computer using GitHub Desktop
+
+**GitHub Desktop** is a free app from GitHub for Windows and Mac that allows you to easily work with your GitHub repositories from your computer. You just saw how you can commit to a repository from GitHub.com, but most developers do the majority of their work from their computer (locally) before pushing it up to GitHub. So let’s try that out!
+
+[Download GitHub Desktop >](https://desktop.github.com/)
+
+## Practice: Use GitHub Desktop and an editor to make a change from your computer
+
+Start by downloading GitHub Desktop if you haven’t already done so, and install it on your computer. Go through the GitHub Desktop onboarding steps, and when you get to the “Let’s get started” screen, go ahead and choose the repository you were just working with on GitHub.com, and click “Clone.”
+
+### Using an editor to make changes
+
+Let’s make sure you have an editor on your computer. If you already know you do, then skip to the next step. Otherwise, download and install either [Visual Studio Code](https://code.visualstudio.com/) or [Atom](https://atom.io/) and restart GitHub Desktop before proceeding to the next step.
+
+Let’s make a change to your GitHub Pages site, just like you did on GitHub.com, except this time we’re going to do it all from your computer. From GitHub Desktop, click the “Open in…” button in the middle of the screen to “open the repository in your external editor” that you just downloaded. In the left sidebar, open the `index.html` file to open itClick the `index.html` file on the left, and go ahead and add another line. Maybe, “Building websites is fun! You should try it too!” or whatever you want to add. Now switch back to GitHub Desktop, and you should see the change you made!
+
+### Commit your changes
+
+Now you can commit your changes by typing a message in the `Summary` box at the bottom left, and then click the blue `Commit` button below that.
+
+### Push your changes to GitHub.com
+
+One of the great things about working on things on your computer is that you get to control when other people see them. Now let’s push your commit to GitHub.com as well so it’s saved there and you can publish it to your site. Click the “Push” button to push your commit to GitHub.com. Now click the “View on GitHub” button to get back to your repository’s page on GitHub.com.
+
+### Deploy and see your changes live on your GitHub Pages website!
+
+[Something about how to see the change on your website]
+
+### Celebrate!
+
+Hooray! Now you have your repository linked between your computer and GitHub.com. In the future, you can use GitHub Desktop to push any changes you decide to make from your computer.
+
 ## Everything you need to know about GitHub
 
 Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
