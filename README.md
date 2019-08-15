@@ -59,7 +59,7 @@ To add your introduction, copy our template and click the edit icon at the top r
 Delete this placeholder line:
 
 ```
-<h1>Welcome to your first GitHub Pages website!</h1>
+<p>Welcome to your first GitHub Pages website!</p>
 ```
 
 Then, paste the template to line 15 and fill in the blanks.
