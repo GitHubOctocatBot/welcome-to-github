@@ -64,7 +64,7 @@ Delete this placeholder line:
 <h1>Welcome to your first GitHub Pages website!</h1>
 ```
 
-Then, paste the template on line 15 and fill in the blanks.
+Then, paste the template to line 15 and fill in the blanks.
 
 [image placeholder]
 
