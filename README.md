@@ -24,21 +24,7 @@ You are currently viewing your project's **README** file. **_README_** files are
 
 Your first GitHub Pages website is automatically published at: https://your-username.github.io/, where "your-username," is your personal username on GitHub. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
 
-<<<<<<< HEAD
 Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world.
-=======
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
-
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
-
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
-
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
-
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
-
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
->>>>>>> add-initial-copy-to-onboarding-repo-readme
 
 ## Making your first edit
 
@@ -68,12 +54,9 @@ Delete this placeholder line:
 ```
 
 Then, paste the template to line 15 and fill in the blanks.
-<<<<<<< HEAD
-=======
 
 <img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
 
->>>>>>> add-initial-copy-to-onboarding-repo-readme
 
 When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
 
