@@ -120,7 +120,7 @@ Now click the “View on GitHub” button to get back to your repository’s pag
 
 ### Deploy and see your changes live on your GitHub Pages website!
 
-[Something about how to see the change on your website]
+Once you commit your changes, they are automatically published on your GitHub Pages website. Refresh your browser to see it live!
 
 ### Celebrate!
 
