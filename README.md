@@ -110,7 +110,7 @@ Now you can commit your changes by typing a message in the `Summary` box at the 
 
 ### Push your changes to GitHub.com
 
-One of the great things about working on things on your computer is that you get to control when other people see them. Now let’s push your commit to GitHub.com as well so it’s saved there and you can publish it to your site. Click the “Push” button to push your commit to GitHub.com. Now click the “View on GitHub” button to get back to your repository’s page on GitHub.com.
+One of the great things about working on things on your computer is that you get to control when other people see them. Now let’s push your commit to GitHub.com as well so it’s saved there and you can publish it to your site. Click the “Push origin” button to push your commit to GitHub.com. 
 
 ![Push-to-GitHub](https://user-images.githubusercontent.com/721500/63188834-82fb9600-c030-11e9-9d8e-6c6ed6d48504.png)
 
