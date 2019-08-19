@@ -81,7 +81,7 @@ Once you click `Commit changes`, your changes will automatically be published on
 
 **GitHub Desktop** is a free app from GitHub for Windows and Mac that allows you to easily work with your GitHub repositories from your computer. You just saw how you can commit to a repository from GitHub.com, but most developers do the majority of their work from their computer (locally) before pushing it up to GitHub. So let’s try that out!
 
-[Download GitHub Desktop >](https://desktop.github.com/)
+[Download GitHub Desktop](https://desktop.github.com/)
 
 ## Practice: Use GitHub Desktop and an editor to make a change from your computer
 
